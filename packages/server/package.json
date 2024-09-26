@@ -36,7 +36,7 @@
     "nodemailer": "^6.4.16",
     "nunjucks": "^3.2.1",
     "promise-retry": "^2.0.1",
-    "puppeteer-core": "^5.5.0",
+    "puppeteer-core": "^13.3.0",
     "read-last-lines": "^1.7.2",
     "scdb": "5.0.0",
     "sctypes": "5.0.0",
